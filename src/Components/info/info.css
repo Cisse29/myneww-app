@@ -1,0 +1,27 @@
+.info_content{
+    height: 50%;
+    width: 100%;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    border:solid 1px blue;
+    
+    
+}
+.info_title{
+    border: solid 1px;
+    text-align: center;
+}
+
+.info_area{
+    height: 20%;
+    width: 100%;
+    border:solid 2px;
+    padding: 0 10px;
+    
+
+}
+h1{
+    color:red;
+   
+}

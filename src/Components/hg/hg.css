@@ -1,0 +1,29 @@
+.hg_area{
+  
+   height:10%;
+   padding: 20px;
+   margin:  30px 100px;
+   
+}
+.hg_content{
+   
+    align-items: center;
+   width: 20%;
+   height: 80px;
+ padding: 50px 20px;
+
+
+
+}
+.pub_area{
+   
+    margin: 25px 1px;
+    align-items: center;
+    border:solid 1px brown;
+}
+.pub_area img {
+    border: solid 5px;
+  margin: 30px 60px;
+  padding: 0 10px;
+  float: center;
+}

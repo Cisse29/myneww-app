@@ -1,0 +1,85 @@
+.suggest {
+    height: 400px;
+    width: 100%;
+    flex: 1;
+    display: flex;
+    border-top-width: 20px;
+    background-color: grey;
+    flex-direction: column;
+    padding: 10px;
+    margin: 20px;
+    justify-content: space-around;
+  }
+  
+  .title1 {
+    text-align: center;
+    height: 15%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+  .text_content {
+    width: 70%;
+    height: 80%;
+  }
+  
+  .idea {
+    width: 100%;
+  }
+  
+  .input_content {
+    height: 20%;
+    width: 100%;
+  }
+  
+  .idea_content {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .desc_content {
+    height: 30%;
+    width: 100%;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  
+  /**#idea {
+    width: 209px;
+    height: 60px;
+    background-color: chartreuse;
+    justify-content: space-around;
+    display: flex;
+    padding: 15px;
+    margin: 10px;
+  }**/
+  /**
+  .description1 {
+    width: 209px;
+    height: 100px;
+    background-color: magenta;
+    justify-content: space-around;
+    text-align: center;
+  }
+  **/
+  .desc_area {
+    width: 100%;
+    height: 100%;
+  }
+  .submit_content {
+    width: 100%;
+    height: 12%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .submit {
+    width: 50px;
+    height: 25px;
+    background-color: blueviolet;
+    text-align: center;
+  }
+  

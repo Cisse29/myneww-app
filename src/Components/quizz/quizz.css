@@ -1,0 +1,58 @@
+.quizz {
+    height: 570px;
+    width: 30%;
+    background-color: white;
+    padding: 0;
+    flex: 1;
+    align-items: top;
+    flex-direction: line;
+    border:solid 1px;
+     margin: 0 25px;
+    position: top;
+  }
+  
+  .quiz-content {
+    width: 100%;
+    height: 50%;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .score-content {
+    height: 28%;
+    padding: 8px 5px;
+  }
+  
+  .score {
+    width: 40px;
+    height: 40px;
+    border: solid 1px;
+    text-align: center;
+    padding: 3px;
+  }
+  
+  .data-content {
+    height: 150%;
+    flex: 1;
+    padding: 8px 0;
+  }
+  
+  .title {
+    width: 100%;
+    height: 30%;
+    font-weight: bold;
+  }
+  .progress {
+    height: 30px;
+    align-items: center;
+  }
+  .progress_orange {
+    color: orange;
+  }
+  .block {
+    width: 100%;
+    height: 60%;
+    justify-content: space-around;
+  }
+  
